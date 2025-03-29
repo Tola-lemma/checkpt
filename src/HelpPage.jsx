@@ -41,7 +41,7 @@ const Help = () => {
           <li>
             Finally, open the Excel or TXT file and copy-paste the data directly into
             the checkpoint, eliminating the need for back-and-forth copying of
-            objects and IPs from Email or shared file.  But it is important to keep in mind that we must read creafully the file that SOC analyst gives us. specialy the one that is shared as a file.
+            objects and IPs from Email or shared file.  But it is important to keep in mind that we must read carefully the file that SOC analyst gives us. specialy the one that is shared as a file.
           </li>
         </ul>
       </Paper>
